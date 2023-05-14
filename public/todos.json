@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Finish coding project",
+    "description": "Complete the final version of the project and submit it for review",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, cheese, vegetables, fruits",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Clean the house",
+    "description": "Vacuum the floors, dust the furniture, and do the laundry",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Read a book",
+    "description": "Choose a book from the library and read at least one chapter",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Go for a run",
+    "description": "Jog around the park for at least 30 minutes",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Practice playing the guitar",
+    "description": "Learn a new song or practice a difficult chord progression",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Attend a yoga class",
+    "description": "Join a local yoga studio and attend a beginner's class",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Schedule a dentist appointment",
+    "description": "Call the dentist's office and schedule a check-up",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Watch a movie",
+    "description": "Choose a movie from your watchlist and watch it",
+    "completed": true
+  },
+  {
+    "id": 10,
+    "title": "Finish reading a novel",
+    "description": "Read the last chapter of the novel you've been reading",
+    "completed": false
+  }
+]
